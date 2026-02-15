@@ -7,6 +7,8 @@ The goal is straightforward: control the bird, avoid the pipes, and survive as l
 
 ## 🎮 How It Works
 
+* TO RUN the game paste the in your terminal
+* pip install pygame
 * Press **space / click** to make the bird jump.
 * Avoid hitting the pipes.
 * Each pipe passed = **1 point**.
